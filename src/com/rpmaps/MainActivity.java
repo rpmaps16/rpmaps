@@ -8,7 +8,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends Activity {
-	GoogleMap map_;
+	private GoogleMap map_;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
